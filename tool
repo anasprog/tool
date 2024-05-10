@@ -8,6 +8,7 @@ import os
 import sys
 from rich.console import Console as sol
 from concurrent.futures import ThreadPoolExecutor as tred
+from time import sleep
 from rich.panel import Panel as nel
 from rich import print as cetak
 from rich import pretty
